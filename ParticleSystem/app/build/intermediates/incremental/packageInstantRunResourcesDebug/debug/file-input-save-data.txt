@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat May 19 21:41:34 CST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\git4carl\\carlshen\\ParticleSystem\\app\\build\\intermediates\\assets\\debug
+0.path=smoke.png
+0.set=ASSET
+count=1

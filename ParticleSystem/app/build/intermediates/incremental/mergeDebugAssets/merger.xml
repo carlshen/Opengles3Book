@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\git4carl\carlshen\ParticleSystem\app\src\main\assets"><file name="smoke.png" path="C:\git4carl\carlshen\ParticleSystem\app\src\main\assets\smoke.png"/></source><source path="C:\git4carl\carlshen\ParticleSystem\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\git4carl\carlshen\ParticleSystem\app\src\debug\assets"/></dataSet></merger>

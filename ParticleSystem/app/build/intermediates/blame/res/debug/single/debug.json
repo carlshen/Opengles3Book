@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\git4carl\\carlshen\\ParticleSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\git4carl\\carlshen\\ParticleSystem\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\git4carl\\carlshen\\ParticleSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\git4carl\\carlshen\\ParticleSystem\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\git4carl\\carlshen\\ParticleSystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\git4carl\\carlshen\\ParticleSystem\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

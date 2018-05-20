@@ -1,0 +1,4 @@
+#Sat May 19 20:56:49 CST 2018
+base.0=C\:\\git4carl\\carlshen\\Hello_Triangle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

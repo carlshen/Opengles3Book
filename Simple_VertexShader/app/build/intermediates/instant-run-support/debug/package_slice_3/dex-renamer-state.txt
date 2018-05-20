@@ -1,0 +1,4 @@
+#Sat May 19 21:26:58 CST 2018
+base.0=C\:\\git4carl\\carlshen\\Simple_VertexShader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

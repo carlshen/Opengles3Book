@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sat May 19 21:39:30 CST 2018
+1.base=C\:\\git4carl\\carlshen\\MultiTexture\\app\\build\\intermediates\\assets\\debug
+2.path=shaders/fragmentShader.frag
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\git4carl\\carlshen\\MultiTexture\\app\\build\\intermediates\\assets\\debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=textures/lightmap.png
+count=4
+1.set=ASSET
+0.path=shaders/vertexShader.vert
+3.base=C\:\\git4carl\\carlshen\\MultiTexture\\app\\build\\intermediates\\assets\\debug
+0.set=ASSET
+0.base=C\:\\git4carl\\carlshen\\MultiTexture\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=textures/basemap.png
